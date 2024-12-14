@@ -2,7 +2,7 @@ export const personalInfo = {
   name: 'Gan Fang',
   profilePicture: '/profile.jpg', //optional
   role: 'Ph.D. Student',
-  university: 'Purdue CS',
+  university: ' Purdue CS',
   universityWebsite: 'https://www.cs.purdue.edu/',
   socialMedia: [
     { name: 'Email', url: 'fang301@purdue.edu' },
